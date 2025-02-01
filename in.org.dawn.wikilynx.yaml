@@ -22,7 +22,7 @@ modules:
     subdir: wikiLYNX
     sources:
       - type: "archive"
-        url: "https://github.com/flamboyantpenguin/wikilynx/archive/refs/tags/v1.5.5.zip"
+        url: "https://github.com/flamboyantpenguin/wikilynx/archive/refs/tags/v1.5.6.zip"
         dest-filename: wikilynx.zip
-        sha256: "4f546b629aaaaac471739d41ea3b51ab069db2fb8675acb45187802664437cba"
+        sha256: "4143b88587eeaef026c4a3760c918a6bf587f5334032a885ea01ac4cf8406ef6"
 
