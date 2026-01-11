@@ -1,9 +1,9 @@
 id: in.org.dawn.wikilynx
 runtime: org.kde.Platform
-runtime-version: '6.8'
+runtime-version: '6.10'
 sdk: org.kde.Sdk
 base: io.qt.qtwebengine.BaseApp
-base-version: 6.8
+base-version: 6.10
 command: wikilynx
 
 finish-args:
@@ -25,4 +25,3 @@ modules:
         url: "https://github.com/flamboyantpenguin/wikilynx/archive/refs/tags/v1.5.6.zip"
         dest-filename: wikilynx.zip
         sha256: "4143b88587eeaef026c4a3760c918a6bf587f5334032a885ea01ac4cf8406ef6"
-
